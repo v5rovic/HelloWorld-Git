@@ -6,8 +6,10 @@ public class Main {
 		for (int i = 0; i < 3; i++) {
 			
 			System.out.println("hello world!!");
+			System.out.println("hello earth!!");
 			
 		}
+		
 
 	}
 
