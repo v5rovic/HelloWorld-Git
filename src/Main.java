@@ -7,6 +7,7 @@ public class Main {
 			
 			System.out.println("hello world!!");
 			System.out.println("hello earth!!");
+			System.out.println("hello mars!!");
 			
 		}
 		
